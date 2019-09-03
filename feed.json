@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ridhoswasta&#x27;s Portfolio",
+    "description": "",
+    "home_page_url": "https://ridhoswasta.github.io",
+    "feed_url": "https://ridhoswasta.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ridhoswasta"
+    },
+    "items": [
+        {
+            "id": "https://ridhoswasta.github.io/livepcr-streaming-backend/",
+            "url": "https://ridhoswasta.github.io/livepcr-streaming-backend/",
+            "title": "LivePCR Streaming Backend",
+            "summary": " LivePCR Front - End Display. Being backend streaming engineer, utilizing shoutcast server.",
+            "content_html": "<p><img class=\"post__image\" src=\"https://ridhoswasta.github.io/media/posts/1/livepcr.png\" alt=\"Live PCR Streaming WEB\" width=\"1342\" height=\"574\"></p>\n<p>LivePCR Front - End Display.</p>\n<p>Being backend streaming engineer, utilizing shoutcast server.</p>",
+            "author": {
+                "name": "Ridhoswasta"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-04T03:09:48+07:00",
+            "date_modified": "2019-09-04T03:09:48+07:00"
+        }
+    ]
+}
