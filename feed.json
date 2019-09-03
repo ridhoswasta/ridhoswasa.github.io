@@ -15,13 +15,14 @@
             "title": "LivePCR Streaming Backend",
             "summary": " LivePCR Front - End Display. Being backend streaming engineer, utilizing shoutcast server.",
             "content_html": "<p><img class=\"post__image\" src=\"https://ridhoswasta.github.io/media/posts/1/livepcr.png\" alt=\"Live PCR Streaming WEB\" width=\"1342\" height=\"574\"></p>\n<p>LivePCR Front - End Display.</p>\n<p>Being backend streaming engineer, utilizing shoutcast server.</p>",
+            "image": "https://ridhoswasta.github.io/media/posts/1/livepcr.png",
             "author": {
                 "name": "Ridhoswasta"
             },
             "tags": [
             ],
             "date_published": "2019-09-04T03:09:48+07:00",
-            "date_modified": "2019-09-04T03:09:48+07:00"
+            "date_modified": "2019-09-04T03:35:54+07:00"
         }
     ]
 }

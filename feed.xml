@@ -3,7 +3,7 @@
     <title>Ridhoswasta&#x27;s Portfolio</title>
     <link href="https://ridhoswasta.github.io/feed.xml" rel="self" />
     <link href="https://ridhoswasta.github.io" />
-    <updated>2019-09-04T03:34:37+07:00</updated>
+    <updated>2019-09-04T03:36:00+07:00</updated>
     <author>
         <name>Ridhoswasta</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://ridhoswasta.github.io/livepcr-streaming-backend/"/>
         <id>https://ridhoswasta.github.io/livepcr-streaming-backend/</id>
 
-        <updated>2019-09-04T03:09:48+07:00</updated>
+        <updated>2019-09-04T03:35:54+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://ridhoswasta.github.io/media/posts/1/livepcr.png" alt="LivePCR Display" />
                      LivePCR Front - End Display. Being backend streaming engineer, utilizing shoutcast server.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://ridhoswasta.github.io/media/posts/1/livepcr.png" alt="LivePCR Display" />
                 <p><img class="post__image" src="https://ridhoswasta.github.io/media/posts/1/livepcr.png" alt="Live PCR Streaming WEB" width="1342" height="574"></p>
 <p>LivePCR Front - End Display.</p>
 <p>Being backend streaming engineer, utilizing shoutcast server.</p>
