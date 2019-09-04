@@ -10,10 +10,25 @@
     },
     "items": [
         {
+            "id": "https://ridhoswasta.github.io/kreditku-marketplace-peminjaman-online/",
+            "url": "https://ridhoswasta.github.io/kreditku-marketplace-peminjaman-online/",
+            "title": "Kreditku - Marketplace Peminjaman Online",
+            "summary": " Kreditku is a marketplace for loan. It is built for final&hellip;",
+            "content_html": "<p class=\"align-center\"><img class=\"post__image\" src=\"https://ridhoswasta.github.io/media/posts/2/kreditku.png\" alt=\"\" width=\"1344\" height=\"628\"></p>\n<p class=\"align-center\"><strong>Kreditku</strong> is a marketplace for loan. It is built for final project at Digital Talent Scholarship 2019 conducted by Kominfo. </p>\n<p class=\"align-center\">Backend programming language : <br>Flask Framework ( Python Based )</p>\n<p class=\"align-center\">Frontend recipee :<br>html + Bootstrap 4</p>\n<p class=\"align-center\">Database : <br>Mysql</p>",
+            "image": "https://ridhoswasta.github.io/media/posts/2/kreditku.png",
+            "author": {
+                "name": "Ridhoswasta"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-04T12:47:55+07:00",
+            "date_modified": "2019-09-04T12:47:55+07:00"
+        },
+        {
             "id": "https://ridhoswasta.github.io/livepcr-streaming-backend/",
             "url": "https://ridhoswasta.github.io/livepcr-streaming-backend/",
             "title": "LivePCR Streaming Backend",
-            "summary": " LivePCR Front - End Display. Being backend streaming engineer, utilizing shoutcast server.",
+            "summary": " LivePCR Front - End Display. Being backend streaming engineer, utilizing shoutcast&hellip;",
             "content_html": "<p><img class=\"post__image\" src=\"https://ridhoswasta.github.io/media/posts/1/livepcr.png\" alt=\"Live PCR Streaming WEB\" width=\"1342\" height=\"574\"></p>\n<p>LivePCR Front - End Display.</p>\n<p>Being backend streaming engineer, utilizing shoutcast server.</p>",
             "image": "https://ridhoswasta.github.io/media/posts/1/livepcr.png",
             "author": {
@@ -22,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2019-09-04T03:09:48+07:00",
-            "date_modified": "2019-09-04T03:37:22+07:00"
+            "date_modified": "2019-09-04T12:48:43+07:00"
         }
     ]
 }

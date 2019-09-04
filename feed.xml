@@ -3,12 +3,38 @@
     <title>Ridhoswasta&#x27;s Portfolio</title>
     <link href="https://ridhoswasta.github.io/feed.xml" rel="self" />
     <link href="https://ridhoswasta.github.io" />
-    <updated>2019-09-04T03:38:32+07:00</updated>
+    <updated>2019-09-04T13:00:02+07:00</updated>
     <author>
         <name>Ridhoswasta</name>
     </author>
     <id>https://ridhoswasta.github.io</id>
 
+    <entry>
+        <title>Kreditku - Marketplace Peminjaman Online</title>
+        <author>
+            <name>Ridhoswasta</name>
+        </author>
+        <link href="https://ridhoswasta.github.io/kreditku-marketplace-peminjaman-online/"/>
+        <id>https://ridhoswasta.github.io/kreditku-marketplace-peminjaman-online/</id>
+
+        <updated>2019-09-04T12:47:55+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ridhoswasta.github.io/media/posts/2/kreditku.png" alt="" />
+                     Kreditku is a marketplace for loan. It is built for final&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ridhoswasta.github.io/media/posts/2/kreditku.png" alt="" />
+                <p class="align-center"><img class="post__image" src="https://ridhoswasta.github.io/media/posts/2/kreditku.png" alt="" width="1344" height="628"></p>
+<p class="align-center"><strong>Kreditku</strong> is a marketplace for loan. It is built for final project at Digital Talent Scholarship 2019 conducted by Kominfo. </p>
+<p class="align-center">Backend programming language : <br>Flask Framework ( Python Based )</p>
+<p class="align-center">Frontend recipee :<br>html + Bootstrap 4</p>
+<p class="align-center">Database : <br>Mysql</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>LivePCR Streaming Backend</title>
         <author>
@@ -17,11 +43,11 @@
         <link href="https://ridhoswasta.github.io/livepcr-streaming-backend/"/>
         <id>https://ridhoswasta.github.io/livepcr-streaming-backend/</id>
 
-        <updated>2019-09-04T03:37:22+07:00</updated>
+        <updated>2019-09-04T12:48:43+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ridhoswasta.github.io/media/posts/1/livepcr.png" alt="LivePCR Display" />
-                     LivePCR Front - End Display. Being backend streaming engineer, utilizing shoutcast server.
+                     LivePCR Front - End Display. Being backend streaming engineer, utilizing shoutcast&hellip;
                 ]]>
             </summary>
         <content type="html">
