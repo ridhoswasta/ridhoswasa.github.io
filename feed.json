@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://ridhoswasta.github.io/about-me-m-ridho-swasta/",
+            "url": "https://ridhoswasta.github.io/about-me-m-ridho-swasta/",
+            "title": "About Me - M Ridho Swasta",
+            "summary": "Hello, welcome to my portfolio site. Nice to see you here. I am&hellip;",
+            "content_html": "<p class=\"align-center\"><strong>Hello, welcome to my portfolio site. Nice to see you here.</strong></p>\n<p class=\"align-center\">I am very happy because you are visiting my portfolio website right now.  Let me introduce my self, My name is M Ridho Swasta. I am a technology maniac, yeah it can be said like that. Why do I call myself using that word? Because I love to learn about technologies, especially in cloud , linux and data engineering. I learn about technology since I was in my junior high school. My first love in technology was Ubuntu Linux. Yes! That's right, I love it because I was thinking that linux is the OS for hacker :P LOL! </p>\n<p class=\"align-center\">After that moment, I became more enthusiast about technology , I ever made a game server for GTA San Andreas and Perfect World. I also made a dozens of Website from forums until blog lol. So I try to summarize all of my projects in this site. Hope you enjoy visiting my website. </p>\n<p class=\"align-center\">Best Regards, </p>\n<p class=\"align-center\"><strong>M Ridho Swasta</strong></p>\n<blockquote>\n<pre id=\"mcetoc_1djtf5e991\" class=\"text-left text-translation times-new align-center\" ><small class=\"english\" >And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace  ( QS : Al - Furqan : 63 )</small></pre>\n</blockquote>",
+            "image": "https://ridhoswasta.github.io/media/posts/3/0708-2019-113206396762551667400.jpeg",
+            "author": {
+                "name": "Ridhoswasta"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-04T13:25:27+07:00",
+            "date_modified": "2019-09-04T13:26:36+07:00"
+        },
+        {
             "id": "https://ridhoswasta.github.io/kreditku-marketplace-peminjaman-online/",
             "url": "https://ridhoswasta.github.io/kreditku-marketplace-peminjaman-online/",
             "title": "Kreditku - Marketplace Peminjaman Online",

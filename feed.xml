@@ -3,12 +3,41 @@
     <title>Ridhoswasta&#x27;s Portfolio</title>
     <link href="https://ridhoswasta.github.io/feed.xml" rel="self" />
     <link href="https://ridhoswasta.github.io" />
-    <updated>2019-09-04T13:00:02+07:00</updated>
+    <updated>2019-09-04T13:33:25+07:00</updated>
     <author>
         <name>Ridhoswasta</name>
     </author>
     <id>https://ridhoswasta.github.io</id>
 
+    <entry>
+        <title>About Me - M Ridho Swasta</title>
+        <author>
+            <name>Ridhoswasta</name>
+        </author>
+        <link href="https://ridhoswasta.github.io/about-me-m-ridho-swasta/"/>
+        <id>https://ridhoswasta.github.io/about-me-m-ridho-swasta/</id>
+
+        <updated>2019-09-04T13:26:36+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ridhoswasta.github.io/media/posts/3/0708-2019-113206396762551667400.jpeg" alt="M Ridho Swasta" />
+                    Hello, welcome to my portfolio site. Nice to see you here. I am&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ridhoswasta.github.io/media/posts/3/0708-2019-113206396762551667400.jpeg" alt="M Ridho Swasta" />
+                <p class="align-center"><strong>Hello, welcome to my portfolio site. Nice to see you here.</strong></p>
+<p class="align-center">I am very happy because you are visiting my portfolio website right now.  Let me introduce my self, My name is M Ridho Swasta. I am a technology maniac, yeah it can be said like that. Why do I call myself using that word? Because I love to learn about technologies, especially in cloud , linux and data engineering. I learn about technology since I was in my junior high school. My first love in technology was Ubuntu Linux. Yes! That's right, I love it because I was thinking that linux is the OS for hacker :P LOL! </p>
+<p class="align-center">After that moment, I became more enthusiast about technology , I ever made a game server for GTA San Andreas and Perfect World. I also made a dozens of Website from forums until blog lol. So I try to summarize all of my projects in this site. Hope you enjoy visiting my website. </p>
+<p class="align-center">Best Regards, </p>
+<p class="align-center"><strong>M Ridho Swasta</strong></p>
+<blockquote>
+<pre id="mcetoc_1djtf5e991" class="text-left text-translation times-new align-center" ><small class="english" >And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace  ( QS : Al - Furqan : 63 )</small></pre>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kreditku - Marketplace Peminjaman Online</title>
         <author>
